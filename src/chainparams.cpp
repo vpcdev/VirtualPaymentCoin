@@ -108,7 +108,7 @@ public:
         nPoolMaxTransactions = 3;
         
         strDarksendPoolDummyAddress = "VaxZ9cKvK2vrWUGLhJXhknpNSAGF6TJCYt";
-        nLastPOWBlock = 5000;
+        nLastPOWBlock = 5000000;
         nPOSStartBlock = 1;
     }
 
